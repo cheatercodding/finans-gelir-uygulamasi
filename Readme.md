@@ -26,9 +26,9 @@ Tür girin (gelir/gider): gelir
 Seçiminizi girin: 2
 Tarihe göre işlemleri görüntüleyin (YYYY-AA-GG) veya tümünü görmek için Enter’a basın: 
 İşlemler:
-Tarih: 2024-06-28, Açıklama: Maaş, Miktar: 5000, Tür: gelir
-Tarih: 2024-07-01, Açıklama: Kira, Miktar: 1500, Tür: gider
-Tarih: 2024-07-02, Açıklama: Market, Miktar: 300, Tür: gider
+Tarih: 2024-06-28, Açıklama: Maaş, Miktar: 100000, Tür: gelir
+Tarih: 2024-07-01, Açıklama: Kira, Miktar: 0, Tür: gider
+Tarih: 2024-07-02, Açıklama: Market, Miktar: 5300, Tür: gider
 
 1. Yeni bir işlem ekle
 2. İşlemleri görüntüle
